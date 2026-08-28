@@ -182,12 +182,6 @@ Heyy-Buddy/
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 👩‍💻 Contact
 
 **Pooja S**
