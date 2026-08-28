@@ -11,7 +11,6 @@
 * [Project Structure](#project-structure)
 * [Deployment](#deployment)
 * [Future Improvements](#future-improvements)
-* [License](#license)
 * [Contact](#contact)
 
 ---
